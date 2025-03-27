@@ -1,0 +1,1 @@
+https://web.archive.org/web/20210226083212/https://www.gradesaver.com/study-guides/R	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>

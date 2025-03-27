@@ -1,0 +1,27 @@
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/a?page=3	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/b?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/c?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/d?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/e?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/f	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/g	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/h	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/i?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/j?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/k	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/l	<urlopen error [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/m?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/n?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/o?page=1	HTTP Error 404: NOT FOUND
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/p	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/q	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/r	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/s	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/t?page=1	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/u	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/v?page=1	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/w	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/x	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/y	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/z	list index out of range
+https://web.archive.org/web/20210225014436/https://www.novelguide.com/title/1	<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>

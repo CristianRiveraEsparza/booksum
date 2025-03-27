@@ -23,7 +23,7 @@ from multiprocessing import Pool
 # PARAMS
 SUMMARY_DIR = '../../raw_summaries/sparknotes/summaries'
 # Summary list info
-summary_list_file = "literature_links.tsv.pruned'
+summary_list_file = "literature_links.tsv.pruned"
 
 f_errors = open("section_errors.txt","w")
 
@@ -196,5 +196,8 @@ def get_summary(summary_info):
                 f.write(json.dumps(section_data))
 
 
-with Pool(1) as p:
-    p.map(get_summary, summary_infos)
+if __name__ == '__main__':
+    from multiprocessing import freeze_support
+    freeze_support()
+    with Pool(1) as p:
+        p.map(get_summary, summary_infos)

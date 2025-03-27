@@ -10,7 +10,8 @@ The script separates cleans the summary text along with separating the analysis,
 
 """
 
-
+import sys
+from multiprocessing import freeze_support
 import json
 import os
 from unidecode import unidecode
@@ -359,7 +360,9 @@ def clean_summary(source):
 
     print ("source: ", source, " book_count: ", book_count)
 
-n_cpus = 8
-
-with Pool(n_cpus) as p:
-    p.map(clean_summary, sources)
+if __name__ == '__main__':
+    from multiprocessing import freeze_support
+    freeze_support()
+    n_cpus = 8
+    with Pool(n_cpus) as p:
+        p.map(clean_summary, sources)

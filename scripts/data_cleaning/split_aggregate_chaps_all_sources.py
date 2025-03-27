@@ -339,14 +339,17 @@ for line in tqdm(fp_lines):
         continue
 
     try:
-        fx = open(summary_path, "r")
-    except Exception as e:
-        print (e)
-        f_all_errors.write("Error loading summary path" + "\t" +summary_path)
-        f_all_errors.write("\n")
-        continue
+    # Leer contenido primero
+        with open(summary_path, "r", encoding="utf-8") as fx:
+            file_content = fx.read()
+    
+    # Parsear JSON después de cerrar archivo
+        summary_json = json.loads(file_content)
 
-    summary_json = json.load(fx)
+    except Exception as e:
+        print(f"Error en {summary_path}: {str(e)}")
+        f_all_errors.write(f"Error loading summary path\t{summary_path}\t{str(e)}\n")
+        continue
     
     summary_content = summary_json['summary']
 
@@ -388,7 +391,12 @@ for line in tqdm(fp_lines):
     print ("num_splits_reqd: ", splits_reqd, num_splits_reqd)
     print ("separated_summaries keys: ", separated_summaries.keys(), len(separated_summaries.keys()))
     
-    assert num_splits_reqd <= len(separated_summaries.keys())
+    print(f"Depuración - Resumen: {summary_path}")
+    print(f"Secciones encontradas: {separated_summaries.keys()}")
+    print(f"Secciones requeridas: {splits_reqd}")
+    if num_splits_reqd > len(separated_summaries.keys()):
+        f_all_errors.write(f"Error en {summary_path}: Se requieren {num_splits_reqd} splits pero solo se encontraron {len(separated_summaries.keys())}\n")
+        continue 
     # We can potentially split a summary text into more number of sections than we're able to match with the book chapters in gutenberg
 
     # No need to separate and use the new section name if we only have one single summary found after breaking

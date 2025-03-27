@@ -1,0 +1,7 @@
+0	https://web.archive.org/web/20210213065730/https://www.novelguide.com/mansfield-park/novel-summary	Mansfield Park: Novel summary: Chapter 1 - 4	../../raw_summaries/novelguide/summaries\Mansfield Park
+2	https://web.archive.org/web/20210215030713/https://www.novelguide.com/my-antonia/summaries/book1-parts5-8	My Antonia: Book 1, Parts 5-8	../../raw_summaries/novelguide/summaries\My Antonia
+3	https://web.archive.org/web/20210215030713/https://www.novelguide.com/my-antonia/summaries/book1-parts9-12	My Antonia: Book 1, Parts 9-12	../../raw_summaries/novelguide/summaries\My Antonia
+3	https://web.archive.org/web/20210213064813/https://www.novelguide.com/utopia/summaries/bookii-of-their-towns-particularly-of-amaurot	Utopia: Novel Summary: Book II - Of their towns, particularly of Amaurot	../../raw_summaries/novelguide/summaries\Utopia
+8	https://web.archive.org/web/20210213064813/https://www.novelguide.com/utopia/summaries/bookii-of-their-slaves-and-of-their-marriages	Utopia: Novel Summary: Book II - Of their slaves, and of their marriages	../../raw_summaries/novelguide/summaries\Utopia
+9	https://web.archive.org/web/20210213064813/https://www.novelguide.com/utopia/summaries/bookii-of-their-military-discipline	Utopia: Novel Summary: Book II - Of their military discipline	../../raw_summaries/novelguide/summaries\Utopia
+4	https://web.archive.org/web/20201205173807/https://www.novelguide.com/merry-wives-of-windsor/summaries/actii-scene1	Merry Wives of Windsor: Novel Summary: Act II Scene 1	../../raw_summaries/novelguide/summaries\Merry Wives of Windsor

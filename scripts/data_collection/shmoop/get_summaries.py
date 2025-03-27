@@ -133,5 +133,9 @@ with open(summary_list_file, 'r') as tsvfile:
     reader = csv.reader(tsvfile, delimiter='\t')
     summary_infos = list(reader)
 
-with Pool(1) as p:
-    p.map(get_summary, summary_infos)
+# Con esto:
+if __name__ == '__main__':
+    from multiprocessing import freeze_support
+    freeze_support()  # Necesario para Windows
+    with Pool(1) as p:
+        p.map(get_summary, summary_infos)
